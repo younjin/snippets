@@ -1,3 +1,4 @@
+#!/usr/bin/python
 # v0: pick four random words from /usr/share/dict/words
 # v1: limit the potential words to those with >4 chars
 
