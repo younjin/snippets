@@ -1,5 +1,5 @@
 # v0: pick four random words from /usr/share/dict/words
-# v1: limit the potential words that are chosen
+# v1: limit the potential words to those with >4 chars
 
 import random
 
